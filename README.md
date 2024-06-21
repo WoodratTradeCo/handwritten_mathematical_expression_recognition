@@ -1,9 +1,12 @@
-# handwritten_mathematical_expression_recognition
+# Handwritten_Mathematical_Expression_Recognition
 
 # DEMO
 
 <div align=center>
 
-![demo_video](https://github.com/WoodratTradeCo/handwritten_mathematical_expression_recognition/blob/main/1.mp4)
+
+
+https://github.com/WoodratTradeCo/handwritten_mathematical_expression_recognition/assets/38500652/43d04236-8d24-4786-8ba8-ce5cf6761e36
+
 
 </div>
