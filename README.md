@@ -4,6 +4,6 @@
 
 <div align=center>
 
-![demo_video](https://github.com/WoodratTradeCo/handwritten_mathematical_expression_recognition/blob/main/tinywow_1_58690249.gif)
+![demo_video](https://github.com/WoodratTradeCo/handwritten_mathematical_expression_recognition/blob/main/1.mp4)
 
 </div>
